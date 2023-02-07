@@ -1,7 +1,10 @@
 ---
 title: Build Blog
 date: 2023-02-06 16:15:52
-tags:
+toc: true
+tags: [hexo, netlify]
+description: 个人博客的搭建
+cover: https://www.585dg.com/wp-content/uploads/2022/09/113025S2Lqo.jpg
 ---
 # 环境准备
 
