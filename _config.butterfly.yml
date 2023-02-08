@@ -305,6 +305,11 @@ gitalk:
   repo: Jiuhong.github.io
   owner: Jiuhong
   admin: Jiuhong
+  language: en # en, zh-CN, zh-TW, es-ES, fr, ru
+  perPage: 10 # Pagination size, with maximum 100.
+  distractionFreeMode: false # Facebook-like distraction free mode.
+  pagerDirection: last # Comment sorting direction, available values are last and first.
+  createIssueManually: true # Gitalk will create a corresponding github issue for your every single page automatically
   option:
 
 # valine
