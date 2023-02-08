@@ -14,6 +14,8 @@ cover: https://www.585dg.com/wp-content/uploads/2022/09/113025S2Lqo.jpg
 
 # 环境准备
 
+## `Linux` 系统
+
 - 安装 `nodejs` 、`npm`
 
 ```bash
